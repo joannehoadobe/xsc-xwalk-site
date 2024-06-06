@@ -1,5 +1,9 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1OulF2dpGr3f_1YVlRpuzhyVuQKCHOc1k 
+  /: 
+    url: https://author-p53852-e347001.adobeaemcloud.com/bin/franklin.delivery/joannehoadobe/xsc-xwalk-site/main
+    type: markup
+    suffix: ".html?wcmmode=disabled"
+  
   #/:
   #  url: https://author-p131639-e1282833.adobeaemcloud.com/bin/franklin.delivery/AdobeDevXSC/xsc-xwalk-site/main
   #  type: markup
